@@ -1,5 +1,15 @@
 
 /* Your CSS Code here. */
+
 th, td {
-  padding: 15px;
+  padding: 10px;
+
+	
+}
+table, th, td {
+  border: 1px solid black;
+}
+tr,td{
+	text-align:center;
+	text:bold;
 }
