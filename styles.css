@@ -1,2 +1,5 @@
 
 /* Your CSS Code here. */
+th, td {
+  padding: 15px;
+}
